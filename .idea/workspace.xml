@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62e9943e-f428-49d6-ae41-5c35bde0a28b" name="1st Changelist" comment="Update README.md">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/prod.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iqeS1ZunlJTzMiBYf3DbPtlwo1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e9943e-f428-49d6-ae41-5c35bde0a28b" name="Default Changelist" comment="" />
+      <created>1602639546288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602639546288</updated>
+      <workItem from="1602639548089" duration="827000" />
+      <workItem from="1602865003442" duration="21000" />
+      <workItem from="1603245363760" duration="925000" />
+      <workItem from="1603713605838" duration="165000" />
+      <workItem from="1603714656585" duration="4056000" />
+      <workItem from="1603740536855" duration="2124000" />
+      <workItem from="1603803393045" duration="758000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial base template for phaser and website.">
+      <created>1603715397972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603715397972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README.md">
+      <created>1603716645676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603716645676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial base template for phaser and website." />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="125" key="CommitChangelistDialog2" timestamp="1603716645586">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="523" y="125" key="CommitChangelistDialog2/1920.-248.1050.1657/0.23.1920.991@0.23.1920.991" timestamp="1603716645586" />
+    <state width="688" height="259" key="GridCell.Tab.0.bottom" timestamp="1603803366215">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="688" height="259" key="GridCell.Tab.0.bottom/1920.-248.1050.1657/0.23.1920.992@0.23.1920.992" timestamp="1603740625116" />
+    <state width="688" height="259" key="GridCell.Tab.0.bottom/1920.-248.1050.1657/0.23.1920.995@0.23.1920.995" timestamp="1603803366215" />
+    <state width="688" height="259" key="GridCell.Tab.0.center" timestamp="1603803366214">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="688" height="259" key="GridCell.Tab.0.center/1920.-248.1050.1657/0.23.1920.992@0.23.1920.992" timestamp="1603740625115" />
+    <state width="688" height="259" key="GridCell.Tab.0.center/1920.-248.1050.1657/0.23.1920.995@0.23.1920.995" timestamp="1603803366214" />
+    <state width="688" height="259" key="GridCell.Tab.0.left" timestamp="1603803366211">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="688" height="259" key="GridCell.Tab.0.left/1920.-248.1050.1657/0.23.1920.992@0.23.1920.992" timestamp="1603740625115" />
+    <state width="688" height="259" key="GridCell.Tab.0.left/1920.-248.1050.1657/0.23.1920.995@0.23.1920.995" timestamp="1603803366211" />
+    <state width="688" height="259" key="GridCell.Tab.0.right" timestamp="1603803366215">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="688" height="259" key="GridCell.Tab.0.right/1920.-248.1050.1657/0.23.1920.992@0.23.1920.992" timestamp="1603740625115" />
+    <state width="688" height="259" key="GridCell.Tab.0.right/1920.-248.1050.1657/0.23.1920.995@0.23.1920.995" timestamp="1603803366215" />
+    <state x="755" y="426" key="VCS.EditChangelistDialog" timestamp="1603716335597">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="755" y="426" key="VCS.EditChangelistDialog/1920.-248.1050.1657/0.23.1920.991@0.23.1920.991" timestamp="1603716335597" />
+    <state x="517" y="289" key="Vcs.Push.Dialog.v2" timestamp="1603716752083">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="517" y="289" key="Vcs.Push.Dialog.v2/1920.-248.1050.1657/0.23.1920.991@0.23.1920.991" timestamp="1603716752083" />
+    <state x="1006" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603716357853">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="1006" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-248.1050.1657/0.23.1920.991@0.23.1920.991" timestamp="1603716357853" />
+  </component>
+</project>
